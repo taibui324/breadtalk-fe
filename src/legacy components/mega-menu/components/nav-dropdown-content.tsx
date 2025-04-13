@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 
 import { RouterLink } from 'src/routes/components';
 
-import { NavUl } from '../components';
+import { NavUl } from '.';
 import { Iconify } from '../../iconify';
 import { NavSubList } from './nav-sub-list';
 import { megaMenuClasses } from '../styles';
